@@ -1,5 +1,7 @@
 # The Last Ember 🔥
 
+![The Last Ember main menu with the campfire in a snowy forest](docs/screenshot.webp)
+
 **The Last Ember** is an atmospheric 2D survival/reflection game developed in Unity (C#). The game revolves around the delicate responsibility of keeping a small campfire alive against unpredictable elements, serving as a poignant metaphor for preserving inner drive, motivation, and resilience through life's challenges.
 
 ---
